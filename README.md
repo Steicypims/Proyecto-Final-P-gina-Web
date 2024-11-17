@@ -1,0 +1,4 @@
+# Proyecto: Página Web "El Diario del Contador"
+Este proyecto esta hecho con el fin de mostrar en una página Web un canal de YouTube en el cual se compraten videos con explicaciones de actividades que se realizan en el campo laboral de un Contador Público. 
+# ¿Cómo se realizó y cómo se conectó con GitHub Pages?
+Este proyecto se realizó aplicando todos los conocimientos que se adquirieron en clase, luego de que el código fue realizado se hizo un commit, posteriormente todo el código fue envido a la variable origin para que almacenara el link. Una vez realizado este paso se creo un repositorio en GitHub y finalmente el link con el código fue enviado al repositorio en GitHub. 
